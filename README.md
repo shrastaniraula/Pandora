@@ -1,4 +1,4 @@
-# Pandora Chatbot
+# Pandora: NLP Chatbot
 
 ## Project Description
 Pandora is a simple chatbot built to assist users with mental health conversations using basic NLP techniques. It takes user input, cleans and processes it, and finds the closest matching response from a dataset. The goal is to create a small, text-based chatbot that can recognize common emotional expressions and reply in a supportive way. This project was made to learn and practice NLP concepts like tokenization, lemmatization, and vectorization.
